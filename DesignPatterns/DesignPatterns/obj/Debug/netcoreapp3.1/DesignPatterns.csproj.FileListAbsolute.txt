@@ -10,4 +10,3 @@ C:\Users\felip\OneDrive\Documentos\GitHub\Design-Pattern\DesignPatterns\DesignPa
 C:\Users\felip\OneDrive\Documentos\GitHub\Design-Pattern\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.dll
 C:\Users\felip\OneDrive\Documentos\GitHub\Design-Pattern\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.pdb
 C:\Users\felip\OneDrive\Documentos\GitHub\Design-Pattern\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.genruntimeconfig.cache
-C:\Users\felip\OneDrive\Documentos\GitHub\Design-Pattern\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csprojAssemblyReference.cache

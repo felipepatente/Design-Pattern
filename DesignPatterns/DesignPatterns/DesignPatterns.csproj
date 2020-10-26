@@ -11,6 +11,7 @@
     <Folder Include="ChainOfResponsibility\" />
     <Folder Include="Decorator\" />
     <Folder Include="FactoryMethod\" />
+    <Folder Include="FlyWeight\" />
   </ItemGroup>
 
 </Project>
