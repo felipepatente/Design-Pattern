@@ -8,6 +8,7 @@
   <ItemGroup>
     <Folder Include="Adapter\" />
     <Folder Include="Bridge\" />
+    <Folder Include="ChainOfResponsibility\" />
   </ItemGroup>
 
 </Project>
