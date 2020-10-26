@@ -13,6 +13,7 @@
     <Folder Include="FactoryMethod\" />
     <Folder Include="FlyWeight\" />
     <Folder Include="InjecaoDeDependencia\" />
+    <Folder Include="State\" />
     <Folder Include="Proxy\" />
   </ItemGroup>
 
