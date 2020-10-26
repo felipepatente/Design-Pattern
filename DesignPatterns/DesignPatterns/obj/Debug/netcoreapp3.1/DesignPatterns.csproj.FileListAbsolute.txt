@@ -1,0 +1,13 @@
+C:\Users\felip\OneDrive\Documentos\GitHub\Design-Pattern\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.exe
+C:\Users\felip\OneDrive\Documentos\GitHub\Design-Pattern\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.deps.json
+C:\Users\felip\OneDrive\Documentos\GitHub\Design-Pattern\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.json
+C:\Users\felip\OneDrive\Documentos\GitHub\Design-Pattern\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.dev.json
+C:\Users\felip\OneDrive\Documentos\GitHub\Design-Pattern\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Design-Pattern\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.pdb
+C:\Users\felip\OneDrive\Documentos\GitHub\Design-Pattern\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Documentos\GitHub\Design-Pattern\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Documentos\GitHub\Design-Pattern\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Documentos\GitHub\Design-Pattern\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Documentos\GitHub\Design-Pattern\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\Design-Pattern\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.pdb
+C:\Users\felip\OneDrive\Documentos\GitHub\Design-Pattern\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.genruntimeconfig.cache
