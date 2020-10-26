@@ -9,6 +9,8 @@
     <Folder Include="Adapter\" />
     <Folder Include="Bridge\" />
     <Folder Include="ChainOfResponsibility\" />
+    <Folder Include="Decorator\" />
+    <Folder Include="FactoryMethod\" />
   </ItemGroup>
 
 </Project>
